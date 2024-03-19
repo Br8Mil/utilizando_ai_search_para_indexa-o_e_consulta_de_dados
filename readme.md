@@ -24,7 +24,9 @@ e azure ai services search.
 
 ![](Aspose.Words.bcb3f654-f7b5-43b3-af28-a40c2547bdb8.003.png)
 
-Assim que fizer a **conta de armazenamento** é necessário configurá-lo para acesso anônimos, procure no canto da página o armazenamento.![](Aspose.Words.bcb3f654-f7b5-43b3-af28-a40c2547bdb8.004.png)
+Assim que fizer a **conta de armazenamento** é necessário configurá-lo para acesso anônimos, procure no canto da página o armazenamento (imagem abaixo).
+
+![](Aspose.Words.bcb3f654-f7b5-43b3-af28-a40c2547bdb8.004.png)
 
 acesse e procure o que foi criado, entre em suas configurações (imagem abaixo).
 
